@@ -4,5 +4,5 @@ student = {
    'last_name':'Tosun'
 }
 print(student.first_name)
-print(student.second-name)
+print(student.second_name)
 print(student.last_name)
